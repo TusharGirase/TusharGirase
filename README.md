@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java related libraries and new technologies.
 - 🌱 I’m currently learning Spring Boot Microservices
 - 💞️ I’m looking to collaborate on some exciting project where I can sharpen my skills
-- 📫 How to reach me tushargirase17044@gmail.com
+- 📫 How to reach me tushargirase1704@gmail.com
 
 <!---
 TusharGirase/TusharGirase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
